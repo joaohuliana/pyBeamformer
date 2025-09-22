@@ -17,3 +17,8 @@ How to Install
     Install the required modules: pip install -r requirements.txt
 
     Run the pyBeamformer.py file.
+
+
+
+
+    https://drive.google.com/drive/folders/1aR4OlLSaYJPKgbIBnFYGUApsIQnY-BsJ?usp=sharing
