@@ -8,7 +8,7 @@ How to Install
 
     Download the project (Download ZIP) and extract it.
 
-    In VSCode, go to File > Open Folder and select the pyBeamformer folder.
+    In VSCode, go to File > Open Folder and select the pyBeamformer-main folder.
 
     Click Terminal > New Terminal and create a virtual environment: python -m venv .venv
 
@@ -16,4 +16,4 @@ How to Install
 
     Install the required modules: pip install -r requirements.txt
 
-    Run the pyvma_ppg_white.py file.
+    Run the pyBeamformer.py file.
