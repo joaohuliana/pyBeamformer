@@ -18,6 +18,8 @@
 
 8.    Run the pyBeamformer.py file.
     
+<img width="1011" height="723" alt="image" src="https://github.com/user-attachments/assets/c87db27d-ec23-4a22-9a26-4c306d095f12" />
+
 
 # How to use
 1. Download an example pre-beamformed file
@@ -32,6 +34,8 @@
 
 3. Data Display: The pre-beamformed data will be shown in the left axis
 
+<img width="1012" height="721" alt="image" src="https://github.com/user-attachments/assets/af3ff5c8-ef14-4649-9f92-cb077e438392" />
+
 4. Configure Parameters: Select appropriate ultrasound parameters and image modality (conventional ultrasound or photoacoustic)
 
 5. Choose Beamforming Method: Select your preferred beamforming algorithm
@@ -42,4 +46,6 @@
 
 8. Save Results: Use the "Save" button to export the beamformed data as a .mat file
 
+<img width="1012" height="723" alt="image" src="https://github.com/user-attachments/assets/07837bf4-bf26-481f-8bbd-28f4efa21fa9" />
     
+<img width="1010" height="722" alt="image" src="https://github.com/user-attachments/assets/36fe2637-d381-4b90-b9a3-116107d919b7" />
